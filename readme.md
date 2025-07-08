@@ -45,6 +45,6 @@
 ![alt text](https://github.com/idingg/slam-mapping/blob/main/images/5.png?raw=true)
 
 ## 매핑 영상
-[video_rviz.webm](https://github.com/user-attachments/assets/a95d1572-2715-443f-be73-f4e85aed3297)
+[video_rviz.webm](https://github.com/user-attachments/assets/fce1227a-b9b7-4a20-be90-1b798c5ed121)
 
 [video_real.mp4](https://github.com/user-attachments/assets/46d7b5f3-0491-41e9-808b-c9f4ed56000f)
